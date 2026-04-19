@@ -1,0 +1,13 @@
+
+.env
+
+.DS_Store
+Thumbs.db
+
+
+uploads/*
+
+!uploads/.gitkeep
+
+*.log
+/vendor/
